@@ -12,5 +12,5 @@ Before this instalation create your bot in @BotFather.
 6. Enter "cd 'PATH:/TO/YOUR/FOLDER'" and python bot.py
 
 # Command List
-/start (alias /help, /помощь, /расписание, /старт) - displays school lessons schedule.
+/start (alias /help, /помощь, /расписание, /старт) - displays school lessons schedule.\n
 /timetable (alias /звонок, /звонки, /расписаниезвонков) - displays school bell timetable.
